@@ -1,0 +1,70 @@
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: 'Titillium Web', sans-serif;
+  color: #FF5252;
+}
+
+h3 {
+  font-family: 'Lobster';
+    color: #FF5252;
+  /* color: white; */
+}
+
+p {
+  font-size: 20px;
+}
+
+.logosize {
+  font-size: 80px;
+}
+
+.btn {
+  background-color: #FF5252;
+}
+
+.navbar, .footercontact {
+  background-color: #FF5252;
+}
+
+.shadow {
+  box-shadow: 2px 2px;
+}
+
+.presentation {
+  font-family: 'Lobster';
+  /* color: white; */
+}
+
+.pres {
+  color: black;
+}
+
+.titlefoot {
+  font-family: 'Lobster';
+  color: white;
+  font-size: 50px;
+}
+
+.h1pres {
+  font-size: 70px;
+}
+
+.imgPresentation {
+  object-fit: cover;
+  height: 300px;
+}
+
+.card {
+  border: none;
+  transition: all .2s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.1);
+}
+
+.navbar-brand {
+  font-family: 'Lobster', cursive;
+}
